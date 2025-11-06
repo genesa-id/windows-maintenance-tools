@@ -1,0 +1,18 @@
+# Log files
+C:\MaintenanceLogs\
+*.log
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+
+# PowerShell temporary files
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
